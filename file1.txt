@@ -1,4 +1,9 @@
 Hello from nottepad
 let's see this trough
+<<<<<<< HEAD
 Liviu tries to change
 aaaaaaaaaaa
+=======
+Cen changes it
+>>>>>>> a2fe5a934a8c62a8d56d1213b4715a32496af0fc
+Change for branch
