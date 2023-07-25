@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Vinod :D
+=======
+Ali was here :D
+>>>>>>> 95fd86c01e8d2708a72f83e1c7879eec168f5123
+
+all okay!
